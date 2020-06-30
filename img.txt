@@ -1,0 +1,18 @@
+The course
+
+Introduction to MVC and project setup
+Routing and the front controller
+
+Advanced routing
+
+Controllers and actions
+
+Views
+
+Package management with Composer
+Models
+
+Application configuration and error handling
+Conclusion
+
+BMNOAPWNS
